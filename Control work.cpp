@@ -4,10 +4,10 @@ using namespace std;
 int main()
 {
 
-    double sumDeposit = 0; // сумма депозита
-    int amountMonth = 0; // количество мес€цев
-    double profit = 0; // прибыль
-    double annualRate = 5; // п€ть процентов годовых
+    double sumDeposit = 0; // Deposit amount
+    int amountMonth = 0; // Total of mounths
+    double profit = 0; // Profit
+    double annualRate = 5; // five percent per annum
     int daysInYear = 365;
     int daysInMonth = 30;
 
